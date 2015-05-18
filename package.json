@@ -1,0 +1,13 @@
+{
+  "title": "Cyber To Butt",
+  "name": "cyber-to-butt",
+  "version": "0.0.1",
+  "description": "Get a better understanding of what cyber experts are actually saying by replacing 'cyber' with 'butt'",
+  "main": "index.js",
+  "author": "Cooper Quintin",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "DWTFYWPL"
+}

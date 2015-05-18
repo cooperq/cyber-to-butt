@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Cyber To Butt",
+  "version": "1.0",
+  "description": "Replaces various cyber words with 'butt'.",
+  "content_scripts": 
+  [
+    {
+      "matches": ["*://*/*"],
+      "js": ["data/cyber_to_butt.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
+
